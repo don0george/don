@@ -1,0 +1,72 @@
+*{
+    font-family:  "Montserrat", sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+    padding-bottom: 10px;
+}
+.name{
+    font-size: 60px;
+}
+.designation{
+    padding-bottom: 10px;
+}
+.contact{
+    background-color: orangered;
+    text-decoration: none;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.sub-division-one{
+    margin: 20px;
+}
+.sub-division-two{
+    background-color: rgb(159, 89, 240);
+    display: inline-block;
+    border-radius: 10px;
+    padding: 20px;
+    height: 150px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+li{
+    list-style: none;
+}
+ul{
+    padding-top: 5px;
+}
+.sub-division-three{
+    background-color: rgb(239, 147, 35);
+    display: inline-block;
+    border-radius: 10px;
+    padding: 20px;
+    height: 150px;
+    margin-top: 5px;
+    width: 70%;
+}
+.sub-division-four{
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+}
+table{
+    margin: 20px;
+}
+input{
+    border: none;
+    border-bottom: 100px;
+}
+button{
+    background-color: rgb(232, 116, 7);
+    padding: 10px;
+    border: none;
+}
+.an{
+    color: rgb(13, 172, 241);
+}
